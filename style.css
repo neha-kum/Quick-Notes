@@ -1,0 +1,27 @@
+input{
+  box-sizing: border-box;
+  min-width: 300px;
+  padding: 10px;
+  border: 1.5px solid #8ad062;
+  margin-bottom: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #8ad062;
+  border: none;
+  color: white;
+  font-weight: bold;
+  border: 1px solid #8ad062;
+}
+
+#delete-btn {
+  background: white;
+  color: #8ad062;
+}
+
+li{
+  color: #8ad062;
+}
+
+
